@@ -42,7 +42,7 @@
 .banner__button:hover {
     color: #000;
     background-color: #c6c6c6;
-    transition: a110.2s;
+    transition: all 0.2s ease;
 }
 .banner__fadeBottom {
     position: absolute;
